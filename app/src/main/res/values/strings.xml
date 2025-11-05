@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Slideshow</string>
+
+    <string name="caption1">This is image 1</string>
+    <string name="caption2">This is image 2</string>
+    <string name="caption3">This is image 3</string>
+    <string name="caption4">This is image 4</string>
+    <string name="caption5">This is image 5</string>
+    <string name="caption6">This is image 6</string>
+    <string name="caption7">This is image 7</string>
+    <string name="caption8">This is image 8</string>
+    <string name="caption9">This is image 9</string>
+    <string name="caption10">This is image 10</string>
 </resources>
